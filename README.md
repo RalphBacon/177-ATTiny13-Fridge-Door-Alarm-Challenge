@@ -47,6 +47,9 @@ https://playground.arduino.cc/Main/CapacitiveSensor/
 **Lukasz Podkalicki's** excellent blog/website  
 http://blog.podkalicki.com/  
 
+**MicroCore** for aTTiny13  
+https://github.com/MCUdude/MicroCore  
+
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
 My channel, GitHub and blog are here:  

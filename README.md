@@ -1,6 +1,9 @@
 # ATTiny13 Fridge Door Alarm Challenge
 Can I port the existing Arduino Nano code to a tiny ATTiny13A whilst retaining all functionality?
 
+### See https://youtube.com/ralphbacon video #177  
+https://youtu.be/w9EO3Xm-fHU  
+
 https://www.pcbway.com First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 1-20 pieces just $30.
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
 ```
